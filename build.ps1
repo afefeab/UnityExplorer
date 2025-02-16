@@ -1,4 +1,4 @@
-# ----------- MelonLoader IL2CPP (net6) ----------- 
+# ----------- MelonLoader IL2CPP (net6) -----------
 dotnet build src/UnityExplorer.sln -c Release_ML_Cpp_net6
 $Path = "Release\UnityExplorer.MelonLoader.IL2CPP.net6preview"
 # ILRepack
